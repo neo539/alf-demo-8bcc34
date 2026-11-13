@@ -1,0 +1,63 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "memberGrade": "소보회원",
+  "orders": [
+   {
+    "orderNo": "SV1001",
+    "item": "모아 스판 앵클부츠 5cm (240)",
+    "status": "배송완료",
+    "claim": null
+   },
+   {
+    "orderNo": "SV1002",
+    "item": "오틴 클래식 페니로퍼 2cm (235)",
+    "status": "상품준비중",
+    "claim": null
+   },
+   {
+    "orderNo": "SV1003",
+    "item": "레니 스퀘어 롱부츠 4cm (240)",
+    "status": "결제완료",
+    "claim": null
+   },
+   {
+    "orderNo": "SV1004",
+    "item": "하린 메리제인 펌프스 4cm (230)",
+    "status": "배송완료",
+    "claim": "반품처리중"
+   },
+   {
+    "orderNo": "SV1005",
+    "item": "세린 플랫폼 로퍼 5cm (240) 외 1건",
+    "status": "배송중",
+    "claim": null
+   },
+   {
+    "orderNo": "SV1006",
+    "item": "베이 키높이 스니커즈 4cm (245)",
+    "status": "배송완료",
+    "claim": null
+   },
+   {
+    "orderNo": "SV1007",
+    "item": "포근 퍼 슬링백 뮬 3cm (235)",
+    "status": "상품준비중",
+    "claim": null
+   },
+   {
+    "orderNo": "SV1008",
+    "item": "루미 메리제인 플랫 1cm (235)",
+    "status": "배송완료",
+    "claim": "반품접수(회수 대기)"
+   },
+   {
+    "orderNo": "SV1009",
+    "item": "다온 스틸레토 미들힐 5cm (240)",
+    "status": "배송완료",
+    "claim": null
+   }
+  ]
+ }
+}

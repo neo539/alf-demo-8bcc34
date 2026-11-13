@@ -1,0 +1,19 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "SV1006",
+  "item": "베이 키높이 스니커즈 4cm (245)",
+  "brand": "소보",
+  "price": 59900,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 10,
+  "ship": "무료배송",
+  "returnFee": 5600,
+  "exchangeFee": 5600,
+  "carrier": "우체국택배",
+  "tracking": "6070-2611-0006"
+ }
+}

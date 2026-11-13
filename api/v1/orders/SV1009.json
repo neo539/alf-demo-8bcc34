@@ -1,0 +1,21 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "SV1009",
+  "item": "다온 스틸레토 미들힐 5cm (240)",
+  "brand": "소보",
+  "price": 52700,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 1,
+  "carrier": "우체국택배",
+  "tracking": "6070-2611-0009",
+  "notReceived": true,
+  "ship": "2,800원",
+  "returnFee": 5600,
+  "exchangeFee": 5600,
+  "feeNote": "단순 변심 교환·반품 배송비 5,600원(불량·오배송은 무상교환)"
+ }
+}

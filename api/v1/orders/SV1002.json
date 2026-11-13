@@ -1,0 +1,15 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "SV1002",
+  "item": "오틴 클래식 페니로퍼 2cm (235)",
+  "brand": "소보",
+  "price": 52700,
+  "pay": "네이버페이",
+  "type": "일반",
+  "status": "상품준비중",
+  "paid": 1,
+  "shipEta": 2
+ }
+}

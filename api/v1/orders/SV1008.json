@@ -1,0 +1,19 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "SV1008",
+  "item": "루미 메리제인 플랫 1cm (235)",
+  "brand": "소보",
+  "price": 45700,
+  "pay": "카카오페이",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 5,
+  "claim": "반품접수(회수 대기)",
+  "claimStart": 1,
+  "reason": "단순 변심",
+  "returnFee": 5600,
+  "carrier": "우체국택배"
+ }
+}

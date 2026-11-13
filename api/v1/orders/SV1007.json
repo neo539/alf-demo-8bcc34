@@ -1,0 +1,16 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "SV1007",
+  "item": "포근 퍼 슬링백 뮬 3cm (235)",
+  "brand": "소보",
+  "price": 48700,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "상품준비중",
+  "paid": 4,
+  "shipEta": 3,
+  "note": "상품마다 제작 기간 차이가 있어 출고가 늦어지는 중, 입고되는 대로 출고"
+ }
+}

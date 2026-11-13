@@ -1,0 +1,20 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "SV1001",
+  "item": "모아 스판 앵클부츠 5cm (240)",
+  "brand": "소보",
+  "price": 56900,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 3,
+  "ship": "무료배송",
+  "returnFee": 5600,
+  "exchangeFee": 5600,
+  "feeNote": "단순 변심 교환·반품 배송비 5,600원(불량·오배송은 무상교환)",
+  "carrier": "우체국택배",
+  "tracking": "6070-2611-0001"
+ }
+}
